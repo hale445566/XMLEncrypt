@@ -1,0 +1,9 @@
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\bin\Debug\XmlEncrypt.exe.config
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\bin\Debug\XmlEncrypt.exe
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\bin\Debug\XmlEncrypt.pdb
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.csprojResolveAssemblyReference.cache
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.Form1.resources
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.Properties.Resources.resources
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.csproj.GenerateResource.Cache
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.exe
+D:\Work\XMLEncrypt\XmlEncrypt\XmlEncrypt\obj\Debug\XmlEncrypt.pdb
